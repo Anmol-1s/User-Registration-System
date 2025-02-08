@@ -4,5 +4,6 @@ The User Registration System is a web-based application developed using JSP, JDB
 The registration form is implemented using JSP (register.jsp), which collects user input and submits it to a Servlet (register.java). The servlet processes the form data and inserts it into the valueinsert table within the register database.
 
 (Frontend - JSP) -register.jsp 
-(Backend - Servlet) -register.java
+(Backend - Servlet) -register.java 
+(Database-MYSQL) -register.sql
 
